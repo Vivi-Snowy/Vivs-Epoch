@@ -1,0 +1,10 @@
+# Never upload these - they are made on each player's PC
+ADMIN_PASSWORD.txt
+setup/dbpw.txt
+**/mariadb_root_password.txt
+**/*.RPT
+**/*.log
+**/server_log.txt
+INSTALL_LOG.txt
+*.msi
+*.vars.ArmA2OAProfile
